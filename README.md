@@ -6,4 +6,11 @@ This technique is used when we need to find subarrays or substrings according to
 <ol>
  <li><a href = "https://www.geeksforgeeks.org/window-sliding-technique/">GeeksforGeeks</a></li>
 </ol>
+<br>
+<h4><hr><i>Problems</i></h4></h4>
+<ol>
+ <li></li>
+</ol>
+
+
 
